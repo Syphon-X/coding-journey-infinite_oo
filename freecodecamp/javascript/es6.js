@@ -47,3 +47,14 @@ function freezeObj()
 const PI = freezeObj();
 
 console.log(PI);
+
+// Destructuring assignment to extract values from objects, reduces individual const initialization
+
+const user = {'name': 'Ted', 'age': 35};
+
+const {name, age} = user;  // shorthand to reduce lines of constants
+// better than const name = user.name etc...
+
+console.log(user.name, user.age);
+
+
