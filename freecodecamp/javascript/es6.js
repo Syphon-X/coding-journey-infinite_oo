@@ -48,13 +48,51 @@ const PI = freezeObj();
 
 console.log(PI);
 
-// Destructuring assignment to extract values from objects, reduces individual const initialization
+// spreading an array in-place
+const ar1 = [6, 78, 2 , 65];
+let ar2;
 
+ar2 =[...ar1];
+console.log(ar2)
+
+// ---------------- Destructuring ----------------- //
+// Destructuring assignment to extract values from objects, reduces individualize const initialization
+console.log('\n----------- Destructuring ------------\n')
 const user = {'name': 'Ted', 'age': 35};
 
 const {name, age} = user;  // shorthand to reduce lines of constants
-// better than const name = user.name etc...
 
 console.log(user.name, user.age);
 
+// can also reassign variables from objects example from above rewritten as:
 
+const { name: userName, age: userAge } = user;
+console.log(userName, userAge);
+
+// you can also destructure to assign variable from nested objects
+
+const newUser = 
+{
+    tedChow: 
+    {
+        age1: 35, email: 'syphonxart@gmail.com'
+    }
+}
+//
+const {tedChow: {age1, email}} = newUser;
+
+const { tedChow: {age1: newAge, email: newEmail}} = newUser;
+
+console.log(newUser);
+
+// destructuring assignment to assign variables from Arrays
+
+const [a, b] = [1, 2, 3, 4]
+console.log(a, b);
+
+const [a2, b2,,, c2] = [1, 2, 3, 4, 5, 6];  // commas allow you to skip in the array index
+
+let a3 = 8, b3 = 6;
+// Only change code below this line
+[a3, b3] = [b3, a3];
+console.log(a3, b3);
