@@ -7,7 +7,6 @@
 		<li>PCEP test</li>
 	  	<li>Finish Javascript Algorythms and Data Structures on freeCodeCamp</li>
 	  	<li>Frontend Development Libraries Certification</li>
-		<li>Javascript certification test<li/>
 		<li>Coursera Professional Certifications</li>
 		<li>Personal Projects</li>
 		<li>CS masters</li>
