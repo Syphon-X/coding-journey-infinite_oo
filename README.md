@@ -4,7 +4,7 @@
 
 <h3>Goals<h3/>
 	<div>
-		<li>PCEP test</li>
+		<li>PCEP test / getting ready to take test</li>
 	  	<li>Finish PCAP test</li>
 		<li>GRE Test</li>
 	  	<li>Frontend Development Libraries Certification</li>
