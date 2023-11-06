@@ -4,11 +4,15 @@
 
 <h3>Goals<h3/>
 	<div>
-		<li>PCEP test / getting ready to take test</li>
-	  	<li>Finish PCAP test</li>
+	  	<li>PCAP Exam</li>
 		<li>GRE Test</li>
 	  	<li>Frontend Development Libraries Certification</li>
 		<li>Coursera Professional Certifications</li>
+		<li>Advance Data Analysis Certification</li>
 		<li>Personal Projects</li>
 		<li>CS masters</li>
+	</div>
+<h3>Completed<h3/>
+	<div>
+		<li>PCEP Exam</li>
 	</div>
