@@ -26,4 +26,6 @@ print(c)
 print(other)
 print(d)
 
+# list comprehension
 
+value = [[x + 1 for x in range(3)] for y in range(3)]
