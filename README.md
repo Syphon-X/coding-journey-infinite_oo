@@ -6,7 +6,6 @@
 	<div>
 	  	<li>PCAP Exam</li>
 		<li>GRE Test</li>
-	  	<li>Frontend Development Libraries Certification</li>
 		<li>Coursera Professional Certifications</li>
 		<li>Advance Data Analysis Certification</li>
 		<li>Personal Projects</li>
