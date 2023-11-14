@@ -29,5 +29,5 @@ print(d)
 # list comprehension
 
 value = [[x + 1 for x in range(3)] for y in range(3)]
-# this will result in
+# this will result in a nested list
 [[1, 2, 3], [1, 2, 3], [1, 2, 3]]
