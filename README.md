@@ -9,7 +9,7 @@
 		<li>Coursera Professional Certifications</li>
 		<li>Advance Data Analysis Certification</li>
 		<li>Personal Projects</li>
-		<li>CS/Data Science masters</li>
+		<li>CS/Data Science Masters</li>
 	</div>
 <h3>Completed<h3/>
 	<div>
