@@ -1,8 +1,8 @@
 
 # PCAP Practice and Notes
 
-import math
+import math as m
 
-x = math.sqrt(4)
+x = m.sqrt(4)
 
 print(x)
