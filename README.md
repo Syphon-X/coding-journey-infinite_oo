@@ -8,7 +8,7 @@
 		<li>GRE Test</li>
 		<li>Coursera Professional Certifications</li>
 		<li>Advance Data Analysis Certification</li>
-		<li>Personal Projects/Game Projects</li>
+		<li>Personal Projects/Game Projects in Python</li>
 		<li>CS or Data Science Online Masters Programs</li>
 	</div>
 <h3>Completed<h3/>
