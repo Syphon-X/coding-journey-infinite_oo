@@ -6,9 +6,14 @@ alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n'
 
 
 
-direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
-text = input("Type your message:\n").lower()
-shift = int(input("Type the shift number:\n"))
+while True:
+    direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
+    if direction not in ('encode', 'decode'):
+        print('Invalid response, please enter encode or decode:\n')
+    else:
+        text = input("Type your message:\n").lower()
+        shift = int(input("Type the shift number:\n"))
+        break
     
 
 # def encrypt(plain_text, shift_amount):
