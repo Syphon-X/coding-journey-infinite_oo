@@ -4,11 +4,9 @@
 
 <h3>Goals<h3/>
 	<div>
-		<li>GRE Test</li>
-		<li>Coursera Professional Certifications</li>
-		<li>Advance Data Analysis Certification</li>
+		<li>Meta Database Engineer Certification</li>
 		<li>Personal Projects/Game Projects in Python</li>
-		<li>CS or Data Science Online Masters Programs</li>
+		<li>CS or Data Science Online Micro/Masters Programs</li>
 	</div>
 <h3>Completed<h3/>
 	<div>
