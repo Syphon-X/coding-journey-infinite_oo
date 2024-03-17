@@ -4,7 +4,6 @@
 
 <h3>Goals<h3/>
 	<div>
-	  	<li>PCAP Exam</li>
 		<li>GRE Test</li>
 		<li>Coursera Professional Certifications</li>
 		<li>Advance Data Analysis Certification</li>
@@ -14,4 +13,5 @@
 <h3>Completed<h3/>
 	<div>
 		<li>PCEP Exam</li>
+		<li>PCAP Exam</li>
 	</div>
