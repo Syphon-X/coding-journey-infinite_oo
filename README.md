@@ -4,8 +4,9 @@
 
 <h3>Goals<h3/>
 	<div>
-		<li>Meta Database Engineer Certification</li>
+		<li>Meta Database Engineer Certification 3/9 completed</li>
 		<li>Personal Projects/Game Projects in Python</li>
+		<li>PCPP by Python Institute</li>
 		<li>CS or Data Science Online Micro/Masters Programs</li>
 	</div>
 <h3>Completed<h3/>
