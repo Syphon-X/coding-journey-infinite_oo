@@ -1,0 +1,13 @@
+﻿username,agreement,category,link
+adam,no_agreement,"intervention_type: static, intervention_quality: good, priority: p5",clip1
+vince,no_agreement,"intervention_type: dynamic, intervention_quality: bad, priority: p6",clip1
+john,no_agreement,"intervention_type: static, intervention_quality: good, priority: p6",clip1
+adam,no_agreement,"intervention_type: dynamic, intervention_quality: good, priority: p3",clip2
+vince,no_agreement,"intervention_type: dynamic, intervention_quality: bad, priority: p4",clip2
+rico,no_agreement,"intervention_type: static, intervention_quality: good, priority: p5",clip2
+adam,no_agreement,"intervention_type: dynamic, intervention_quality: good, priority: p3",clip3
+john,no_agreement,"intervention_type: dynamic, intervention_quality: bad, priority: p4",clip3
+rico,no_agreement,"intervention_type: static, intervention_quality: good, priority: p5",clip3
+adam,no_agreement,"intervention_type: static, intervention_quality: good, priority: p5",clip4
+vince,no_agreement,"intervention_type: dynamic, intervention_quality: bad, priority: p4",clip4
+john,no_agreement,"intervention_type: static, intervention_quality: good, priority: p5",clip4
